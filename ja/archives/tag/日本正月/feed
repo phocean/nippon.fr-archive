@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>日本正月 &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
+	<atom:link href="/npfr-archive/ja/archives/tag/%e6%97%a5%e6%9c%ac%e6%ad%a3%e6%9c%88/feed" rel="self" type="application/rss+xml" />
+	<link>/npfr-archive/ja/</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+	<item>
+		<title>あけましておめでとうございます</title>
+		<link>/npfr-archive/ja/archives/654</link>
+		<pubDate>Mon, 18 Jan 2010 21:10:49 +0000</pubDate>
+		<dc:creator><![CDATA[Aki]]></dc:creator>
+				<category><![CDATA[日記]]></category>
+		<category><![CDATA[日本正月]]></category>
+
+		<guid isPermaLink="false">http://www.nippon.fr/test/?p=654</guid>
+		<description><![CDATA[年が明けてもう2週間も経ってしまいましたが、あけましておめでとうございます。この冬は南仏と日本を駆け回っていたため移動でかなり大変でした。 クリスマスのマルセイユはまずまずのお天気で、庭で少し日光浴。日本（日本海側）は雪、そして戻ってきた1月のパリは氷点下で道が凍っていました。 雪の中を駆け抜けるマルセイエ その日採ってきた牡蠣で、牡蠣鍋。 そして日本海といえばカニ。]]></description>
+				<content:encoded><![CDATA[<p>年が明けてもう2週間も経ってしまいましたが、あけましておめでとうございます。この冬は南仏と日本を駆け回っていたため移動でかなり大変でした。 クリスマスのマルセイユはまずまずのお天気で、庭で少し日光浴。日本（日本海側）は雪、そして戻ってきた1月のパリは氷点下で道が凍っていました。</p>
+<p><img src="../../imgs/Diary/2010/P1010898%20%5B320x200%5D.JPG" alt="" width="267" height="200" /> <img src="../../imgs/Diary/2010/P1010903%20%5B320x200%5D.JPG" alt="" width="267" height="200" /><br />
+雪の中を駆け抜けるマルセイエ</p>
+<p><img src="../../imgs/Diary/2010/P1010899%20%5B320x200%5D.JPG" alt="" width="267" height="200" /> <img src="../../imgs/Diary/2010/P1010859%20%5B320x200%5D.JPG" alt="" width="267" height="200" /><br />
+その日採ってきた牡蠣で、牡蠣鍋。<br />
+そして日本海といえばカニ。</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
