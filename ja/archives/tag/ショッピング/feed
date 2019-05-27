@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ショッピング &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/ja/archives/tag/%e3%82%b7%e3%83%a7%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/archives/tag/%e3%82%b7%e3%83%a7%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>フランス人のお金の使い方</title>
-		<link>/npfr-archive/ja/archives/59</link>
+		<link>/ja/archives/59</link>
 		<pubDate>Fri, 18 May 2007 21:15:33 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[フランス文化社会]]></category>

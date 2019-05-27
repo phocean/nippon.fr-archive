@@ -9,8 +9,8 @@
 
 <channel>
 	<title>シャルトル &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/ja/archives/tag/%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%88%e3%83%ab/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/archives/tag/%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%88%e3%83%ab/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>シャルトル大聖堂</title>
-		<link>/npfr-archive/ja/archives/288</link>
+		<link>/ja/archives/288</link>
 		<pubDate>Wed, 25 May 2005 20:43:48 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[フランス観光]]></category>

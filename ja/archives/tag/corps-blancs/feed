@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Corps Blancs &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/ja/archives/tag/corps-blancs/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/archives/tag/corps-blancs/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>ストリートアート</title>
-		<link>/npfr-archive/ja/archives/3912</link>
+		<link>/ja/archives/3912</link>
 		<pubDate>Sun, 09 Jan 2011 17:33:26 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>
@@ -30,7 +30,7 @@
 		<guid isPermaLink="false">http://www.nippon.fr/?p=3912</guid>
 		<description><![CDATA[先日お昼のテレビ番組でたまたまあるアーティストがデモンストレーションをしているのを見ていました。サッサッサッと白いペンキで一瞬にして人のシルエットが完成。そして今日、通りを歩いていたら同じ作品を発見！ 家に戻って番組の記録を調べてみたところ、 Jerome MESNAGER という名前のアーティスト名にたどり着きました。パリのいたるところに彼の作品が隠されているようです！パリを歩いていたらどこかで見かけるかもしれませんね。よーく目を凝らして歩いてください！芸術の町ですね。作品タイトルは　『Corps Blancs』。 Jerome MESNAGER サイトにあるビデオがおもしろい。]]></description>
 				<content:encoded><![CDATA[<p>先日お昼のテレビ番組でたまたまあるアーティストがデモンストレーションをしているのを見ていました。サッサッサッと白いペンキで一瞬にして人のシルエットが完成。そして今日、通りを歩いていたら同じ作品を発見！</p>
-<p><img class="alignnone size-medium wp-image-3914" src="/npfr-archive/wp-content/uploads/2011/01/09012011015-640x480-225x300.jpg" /></p>
+<p><img class="alignnone size-medium wp-image-3914" src="/wp-content/uploads/2011/01/09012011015-640x480-225x300.jpg" /></p>
 <p>家に戻って番組の記録を調べてみたところ、 Jerome MESNAGER という名前のアーティスト名にたどり着きました。パリのいたるところに彼の作品が隠されているようです！パリを歩いていたらどこかで見かけるかもしれませんね。よーく目を凝らして歩いてください！芸術の町ですね。作品タイトルは　『Corps Blancs』。</p>
 <p><a href="http://mesnagerjerome.free.fr/">Jerome MESNAGER </a>サイトにあるビデオがおもしろい。</p>
 ]]></content:encoded>

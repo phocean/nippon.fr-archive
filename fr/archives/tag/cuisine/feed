@@ -9,8 +9,8 @@
 
 <channel>
 	<title>cuisine &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/fr/archives/tag/cuisine/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/fr/</link>
+	<atom:link href="/fr/archives/tag/cuisine/feed" rel="self" type="application/rss+xml" />
+	<link>/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>Ma ville Toyo-oka</title>
-		<link>/npfr-archive/fr/archives/5848</link>
+		<link>/fr/archives/5848</link>
 		<pubDate>Sun, 05 Jan 2014 17:20:51 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[Au Japon]]></category>
@@ -33,7 +33,7 @@
 		<category><![CDATA[voyage]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/?p=5848</guid>
-		<description><![CDATA[Où est la ville Toyo-oka ? 139 degrees 49 minutes of east longitude 35 degrees 32 minutes of north latitude Quelle est la superficie ? 162,35 km2 La population ?  92 881 （homme 44 579 　femme 48 302) Ma ville, Toyo -oka, est située dans le nord du département de Hyogo, appartenant lui-même à la région Tajima. Il faut à peu près deux heures &#8230; <a href="/npfr-archive/fr/archives/5848" class="more-link">Continue reading <span class="screen-reader-text">Ma ville Toyo-oka</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[Où est la ville Toyo-oka ? 139 degrees 49 minutes of east longitude 35 degrees 32 minutes of north latitude Quelle est la superficie ? 162,35 km2 La population ?  92 881 （homme 44 579 　femme 48 302) Ma ville, Toyo -oka, est située dans le nord du département de Hyogo, appartenant lui-même à la région Tajima. Il faut à peu près deux heures &#8230; <a href="/fr/archives/5848" class="more-link">Continue reading <span class="screen-reader-text">Ma ville Toyo-oka</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p><strong>Où est la ville Toyo-oka ?<br />
 </strong>139 degrees 49 minutes of east longitude<br />
 35 degrees 32 minutes of north latitude<br />
@@ -43,13 +43,13 @@
 </strong> 92 881 （homme 44 579 　femme 48 302)</p>
 <p>Ma ville,<strong> Toyo -oka</strong>, est située dans le nord du département de Hyogo, appartenant lui-même à la région <strong>Tajima</strong>.</p>
 <p>Il faut à peu près deux heures de train à partir de Kyoto, Osaka ou Kobe pour rejoindre Toyo -oka. La ville est située au milieu d’une région montagneuse, mais le nord de la ville est ouvert à la mer. L’aglomération se compose en réalité de plusieurs petits villages répartis un peu partout sur un vaste territoire. Les paysages sont magnifiques, aussi la région est populaire et fréquentée par les touristes japonais. Ce n’est pas aussi animé que Tokyo, mais si vous aimez le calme et la nature, c’est un bon choix. Pour votre prochain projet de voyage, voici quelques informations pratiques que vous ne pourrez pas trouver ailleurs.</p>
-<p><img src="/npfr-archive/imgs/toyooka%20slide/DSCN0010%20%28WinCE%29.js" /></p>
+<p><img src="/imgs/toyooka%20slide/DSCN0010%20%28WinCE%29.js" /></p>
 <p>Tout d’abord, Toyo -oka est connu comme <strong>la ville de cigognes</strong>. On ne peut trouver ces oiseaux que dans cette ville au Japon, ce qui est un signe que la nature n’est pas polluée. Regardez la photo de mon école : elle est au milieu des rizières. Rizières qui sont préservées des engrais chimiques pour que les cigognes puissent vivre dans de bonnes conditions.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000241.resized.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000243.resized.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000241.resized.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000243.resized.jpg" /></p>
 <p>Le fleuve, appelé <strong>Maruyamagawa,</strong> est aussi un endroit idéal pour les animaux et les insectes. Lorsque je visite ma ville, je fais souvent des promenades le long du fleuve avec mon mari. On peut apprécier la nature partout.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000275.resized.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000330.resized.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000275.resized.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000330.resized.jpg" /></p>
 <p>・ <strong><a href="http://www.city.toyooka.lg.js">Site officiel de la ville de Toyooka</a></strong> (English)</p>
 <p>&nbsp;</p>
 <p><strong>L’histoire unique de Toyo -oka</strong></p>
@@ -58,94 +58,94 @@
 <p><strong>・</strong><strong><a href="http://www.toyooka-kaban.js">Toyo-oka kaban (sacs) official HP</a></strong> (les sacs de la marque authentique de Toyo-oka, fabriqués au Japon à 100 %)</p>
 <p>Il y a même une rue nommée « Kaban Street » (la rue des sacs), où se trouvent encore plusieurs magasins. Si vous voulez plus de variétés de sacs, je vous suggère d’aller visiter une usine de sacs, comme <a href="http://www.tajima.js">Kaban no Yakata</a> (Maison de sacs).</p>
 <p>L’industrie étant vraiment importante pour la ville, une fête appelée  « <strong>Yanagi Matsuri</strong> » (fête du saule) est tenue chaque année les 1er et 2 août, avec de magnifiques feux d’artifice.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/DSCN0011-300x225.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/DSCN0012-300x225.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/DSCN0011-300x225.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/DSCN0012-300x225.jpg" /></p>
 <p>Comme mentionné précédemment, l’autre nom donné à ma ville est « ville de la cigogne ». Ces cigognes sont un peu différentes que celles des pays occidentaux, elles sont d’ailleurs classées comme cigognes orientales. Symbole du département de  Hyogo, elles sont enregistrées comme patrimoine naturel national.</p>
 <p>Autrefois, ces oiseaux étaient partout dans la région Tajima. Mais à cause du développement industriel, ils ont tous disparu dans les années 1970. Aujourd’hui, les gens de Toyo -oka travaillent dur pour sauver ces oiseaux, en protégeant l’environnement naturel. C’est pour cela que ma ville, bien que petite, attire beaucoup d’attention de l’ensemble du Japon.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000270.resized.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_10008.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000270.resized.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_10008.jpg" /></p>
 <p>Je vois souvent quelques cigognes voler dans le ciel ou marcher dans les rizières.</p>
 <p>・<strong><a href="http://www.stork.u-hyogo.ac.js">Park of storks</a></strong> (l’histoire de cigognes/en japonais)<br />
 ・<strong><a href="http://www.city.toyooka.lg.js">Diary of storks </a></strong>(cigognes en webcam/en japonais)</p>
 <p>&nbsp;</p>
 <p><strong>Activitités variées</strong></p>
 <p>Les gens de Toyo -oka profitent beaucoup de la nature. Dans les montagnes, on s’amuse à faire du ski en hiver et à faire des randonnées en été. Nous avons de belles plages aussi.  Si vous êtes fatigués, nous avons des stations thermales. Voilà pourquoi nous avons des touristes toute l’année.</p>
-<p><img src="/npfr-archive/imgs/knanabe/map_course03.js" /></p>
-<p><img src="/npfr-archive/imgs/knanabe/photo_1%20%28WinCE%29.js" /><br />
+<p><img src="/imgs/knanabe/map_course03.js" /></p>
+<p><img src="/imgs/knanabe/photo_1%20%28WinCE%29.js" /><br />
 Profitez de la nature ! Faire du ski, ou jouer au foot&#8230; comme vous voulez.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1010898.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1010903.jpg" /><br />
+<p><img title="" src="/wp-content/uploads/2004/06/p1010898.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1010903.jpg" /><br />
 Mon mari est excité même dans la neige!!!</p>
 <p>Et en été, le paysage change.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000337.resized.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000355.resized.jpg" /><br />
+<p><img title="" src="/wp-content/uploads/2004/06/p1000337.resized.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000355.resized.jpg" /><br />
 J’adore faire une randonnée à la montagne.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000372.resized.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000410.resized.jpg" /><br />
+<p><img title="" src="/wp-content/uploads/2004/06/p1000372.resized.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000410.resized.jpg" /><br />
 Calme et tranquille.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000419.resized.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000358.jpg" /><br />
+<p><img title="" src="/wp-content/uploads/2004/06/p1000419.resized.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000358.jpg" /><br />
 Je ne croise personne en chemin.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/P1010891.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000448.jpg" /><br />
+<p><img title="" src="/wp-content/uploads/2004/06/P1010891.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000448.jpg" /><br />
 La forêt du Japon est très sombre.</p>
 <p>・<strong><a href="http://www.toyo-kan.js">L’Association de tourisme de Toyo -oka</a> </strong>(en japonais)</p>
 <p><strong>Les sites de tourisme</strong></p>
 <p><strong>–Genbudo<strong> — </strong></strong><br />
 Genbudo est un monument naturel national. Il s’agit d’une grotte formée dans une roche appelée Genbugan. Il y a 1 600 000 ans, du magma a été jeté et refroidi, formant une masse de Genbugan. Ensuite, avec l’érosion voilà 6 000 ans, le Genbugan a été repoussé vers l’extérieur. Les gens ont alors commencé à exploiter la roche et ces grottes ont été formées. Donc, ce n’est pas tout à fait naturel, mais plutôt un champ de mine.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_10011.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dscn0881.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_10011.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dscn0881.jpg" /></p>
 <p>Dans le passé, les gens utilisaient cette roche pour bâtir la base d’un château. Vous pouvez encore trouver quelques maisons avec la même base dans la région.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_10012.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_10012.jpg" /></p>
 <p>Trouvez plus d’info au <strong><a href="http://www3.ocn.ne.js">Musée de Genbudo</a></strong> (en japonais) .</p>
 <p><strong>–Kinosaki — </strong></p>
 <p>Ce petit village est l’une des stations balnéaires les plus célèbres du Japon. Vous pouvez y profiter d’un beau paysage bien préservé, et vous y fondre en portant un « <em>yukata</em> » (genre de kimono très léger et simple, porté exclusivement en été). Chaque « <em>ryokan</em> » (un hôtel traditionnel japonais) vous prête un <em>yukata </em>pour votre séjour. Vous ne regretterez pas d’avoir pris des heures pour aller là-bas,  lorsque vous serez servis un dîner exceptionnel ! Sur votre assiette, vous aurez une grande variété de spécialités locales.</p>
-<p><img src="/npfr-archive/imgs/Onsen/DSCN0293%20%28WinCE%29.JPG" alt="kinosaki " width="240" height="180" /></p>
-<p><img src="/npfr-archive/imgs/Onsen/DSCN0296%20%28WinCE%29.JPG" alt="kinosaki " width="240" height="180" /></p>
+<p><img src="/imgs/Onsen/DSCN0293%20%28WinCE%29.JPG" alt="kinosaki " width="240" height="180" /></p>
+<p><img src="/imgs/Onsen/DSCN0296%20%28WinCE%29.JPG" alt="kinosaki " width="240" height="180" /></p>
 <p>Certains hôtels sont chers, mais vous pouvez trouver quelques <em>ryokans</em> moins chers ou raisonnables.</p>
 <p>Le ryokan<strong> Mikiya </strong>a une longue histoire. Leurs propriétaires ont entamé leurs affaires à l’époque de l’Edo (XVII-XVIIII), et un romancier japonais très célèbre y a logé et a écrit un roman intitulé « Kinosaki ni te » (A Kinosaki), publié en 1917 .</p>
 <p>Le ryokan<strong> Tsutaya </strong>est un autre hôtel très remarquable. <em>Katsura Kogoro</em>, (un bushi ou samuraï actif dans les dernières années de l’époque de l’Edo), restait ici en se cachant. Opposant, il était poursuivi par le gouvernement d’Edo de l’époque.</p>
 <p>・<strong><a href="http://www.kinosaki-mikiya.js">Mikiya Ryokan</a></strong> (en anglais)<br />
 ・<strong><a href="http://www2.nkansai.ne.js">Tsutaya Ryokan</a></strong> (en japonais)</p>
-<p><img src="/npfr-archive/imgs/Kinosaki%20slide/DSCN0329%20%28WinCE%29.JPG" alt="ashiyu" width="240" height="180" border="0" /></p>
-<p><img src="/npfr-archive/imgs/Kinosaki%20slide/DSCN0297%20%28WinCE%29.JPG" alt="spa" width="240" height="180" border="0" /></p>
+<p><img src="/imgs/Kinosaki%20slide/DSCN0329%20%28WinCE%29.JPG" alt="ashiyu" width="240" height="180" border="0" /></p>
+<p><img src="/imgs/Kinosaki%20slide/DSCN0297%20%28WinCE%29.JPG" alt="spa" width="240" height="180" border="0" /></p>
 <p>Dans la rue de Kinosaki, il y a de petits bains pour les pieds, « <em>Ashi yu</em> » en japonais : <em>Ashi</em> pour les jambes, et <em>yu </em>pour<em> </em>eau chaude. La photo à droite montre la source des eaux thermales. On peut y cuire des œufs ! On appelle ces œufs « <em>onsen tamago</em> ».</p>
 <p>Au total, il y a 7 stations thermales majeures, appelées « <em>soto yu</em> ». Un <em>Soto yu</em> est ouvert pour tout le monde, il s’agit d’un <em>osen</em> public. Donc, même sans faire un séjour dans la ville, vous pouvez profiter des bains des <em>soto yu</em>. Chaque bain a des propriétés différentes pour la santé.</p>
 <p>・<strong><a href="http://www.kinosaki-spa.gr.js">Office du tourisme de Kinosaki</a> </strong>(en anglais)</p>
 <p>Chaque année beaucoup de gens visitent ce village, en particulière en été pour profiter de la grande fête avec des feux d’artifice. On découvre aussi un panorama splendide du sommet du montagne. Vous pouvez y accéder par téléphérique.</p>
 <p>・<strong><a href="http://www.kinosaki-ropeway.js">Téléphérique de Kinosaki</a> </strong>(en japonais)</p>
 <p>En allant un peu plus loin vers la mer (accessible seulement en voiture ou en bus), vous trouverez un autre site touristique : le grand aquarium <a href="http://www.hiyoriyama.co.js"><strong>Kinosaki Marine World</strong></a>. Il offre de nombreux divertissements aux visiteurs, avec des spectacles d’animaux marins.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_10019.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p8260101.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p8260094.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_10019.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p8260101.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p8260094.jpg" /></p>
 <p>Passez un bon moment à Kinosaki !</p>
 <p><strong>–Izushi —<br />
 </strong>Cette ville est surnommée la petite Kyoto. Les maisons et magasins ont été bien préservés, et les ruines du château d’Izushi se trouvent sur le flanc de la montagne. Aujourd’hui, il n’en reste presque plus rien, mais de la colline on peut découvrir un beau panorama de la ville. La spécialité locale à ne pas manquer, ce sont les<strong> soba</strong> (pâtes de sarrasin).  Il y a des restaurants de soba partout dans cette petite ville, à tel point qu’il est difficile de faire un choix.</p>
-<p><img src="/npfr-archive/imgs/Izushi%20slide/DSCN0211%20%28WinCE%29.js" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_0293.jpg" /></p>
+<p><img src="/imgs/Izushi%20slide/DSCN0211%20%28WinCE%29.js" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_0293.jpg" /></p>
 <p><strong>L’histoire d’Izushi</strong>:  A l’époque du Muromachi (1336-1467), le clan de Yamana était très puissant dans la région de San-in (englobant la région de Tajima). Izushi fût bâtie par Tokiyoshi Yamana en 1372. Le château de l’époque était appelé Konosumiyama -jo. La famille du clan Yamana résida dans ce château pendant plus de 200 ans. Mais Hideyoshi Hashiba (ou Hideyoshi Toyotomi qui devait gouverner le Japon plus tard, entre 1536 et 1598) attaqua et conquis Izushi en 1569. Suketoyo Yamana construisi un autre château, Ariko -jo, dans le Mont Ariko, mais celui-ci fût aussi conquis par Hideyoshi.</p>
 <p>Pendant un temps, ce château fut maintenu par de simples gardiens. Il fut ensuite réoccupé, mais par Koide Yoshimasa, daimyo (seigneur féodal pendant les 15e et 16e siècles) et cousin de Hideyoshi. Le clan du Koide se divisa en deux parties au moment de la bataille de Sekigahara. Cette bataille mena à de grands changements dans l’histoire du Japon. Ce fut la chute de Hideyoshi et le début du règne d’un nouveau shogun, Tokugawa. Yoshimasa Koide était du côté de Hideyoshi, mais son frère Hideie avait rejoint Tokugawa. Cette stratégie fut établie afin que, quel que soit le vainqueur, le clan puisse profiter de la situation. Ainsi, Hideie intervint auprès de Tokugawa pour gracier son frère et la situation du clan à Izushi s’en trouva sécurisée.</p>
 <p>En 1604, le château Ariko -jo fut abandonné par Yoshihide Koide, et un nouveau château fût bâti et le village commença à se développer.</p>
 <p>En 1696, le dernier héritier de la famille, Fusatsugu Koide mourut à l’âge de trois ans. Tadachika Matsudaira fût envoyé pour prendre la place de la famille Koide. En 1706, après que Tadachika fût affecté dans une autre région, Masaakira Sengoku arriva et devint le nouveau seigneur d’Izushi. C’est lui qui a amena à Izushi les soba, spécialité de sa région d’origine, Nagano.</p>
 <p>Le clan de Sengoku demeura ensuite jusqu’à la fin du système féodal (début du XIXe, ère Meiji).</p>
 <p>&nbsp;</p>
-<p><img src="/npfr-archive/imgs/Izushi%20slide/DSCN0232%20%28WinCE%29.JPG" alt="izushi" width="240" height="180" border="0" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_0291.jpg" /></p>
+<p><img src="/imgs/Izushi%20slide/DSCN0232%20%28WinCE%29.JPG" alt="izushi" width="240" height="180" border="0" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_0291.jpg" /></p>
 <p>Partout : soba, soba, soba !</p>
-<p><img src="/npfr-archive/imgs/Izushi%20slide/DSCN0228%20%28WinCE%29.js" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_0282.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_0284.jpg" /></p>
+<p><img src="/imgs/Izushi%20slide/DSCN0228%20%28WinCE%29.js" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_0282.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_0284.jpg" /></p>
 <p>Une tour surmontée d’une horloge. Les gens l’appellent « <strong>Shinkoro</strong> ». Avant, les gens entendaient le tambour joué de cette tour, qui les prévenait de la présence du daimyo. L’horloge fut ajoutée plus tard. Un docteur, nommé Ikeda, tomba gravement malade, et beaucoup de gens d’Izushi ont prièrent pour qu’il guérisse. Il se rétablit et voulu exprimer sa gratitude en offrant cette horloge en 1881.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_0298.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_0296.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_0298.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_0296.jpg" /></p>
 <p>Ci-dessus, les entrepôts de saké, dont les murs sont fabriqués d’argile. On dit que leur couleur change en fonction de la saison. Izushi est aussi connu pour son saké original, <strong>Sasazuru</strong>.</p>
-<p><img src="/npfr-archive/imgs/toyooka%20slide/P1010976%20%5B320x200%5D.JPG" alt="" width="292" height="214" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_0281.jpg" /></p>
+<p><img src="/imgs/toyooka%20slide/P1010976%20%5B320x200%5D.JPG" alt="" width="292" height="214" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_0281.jpg" /></p>
 <p><strong>Soba-sho</strong> : C’est notre restaurant de soba favori. Tous les ingrédients sont frais. Ils servent des pâtes dans des assiettes spéciales en poterie d’Izushi, <strong>Izushi-yaki</strong>.</p>
 <p><strong><a href="http://www.sobasho.com/introduction.html">Site officiel de Soba-sho</a></strong> (en japonais)</p>
-<p><img class="alignnone size-medium wp-image-8395" src="/npfr-archive/fr/wp-content/uploads/2014/09/IMG_20170809_133015-300x169.jpg" /></p>
-<p><img class="alignnone size-medium wp-image-8394" src="/npfr-archive/fr/wp-content/uploads/2014/09/IMG_20170809_133143-300x169.jpg" /></p>
-<p><strong><img class="alignnone size-medium wp-image-8396" src="/npfr-archive/fr/wp-content/uploads/2014/09/IMG_20170809_133304-300x169.jpg" /></strong></p>
+<p><img class="alignnone size-medium wp-image-8395" src="/fr/wp-content/uploads/2014/09/IMG_20170809_133015-300x169.jpg" /></p>
+<p><img class="alignnone size-medium wp-image-8394" src="/fr/wp-content/uploads/2014/09/IMG_20170809_133143-300x169.jpg" /></p>
+<p><strong><img class="alignnone size-medium wp-image-8396" src="/fr/wp-content/uploads/2014/09/IMG_20170809_133304-300x169.jpg" /></strong></p>
 <p><strong>Mori-No-Yakata</strong> : Si vous vous intéressez à faire des pâtes de soba, <b> </b>visitez le restaurant, Morinoyakata. Le patron est le maître de soba, et il donne des cours de poterie aussi. Vous apprendrez les bases de poterie et les techniques nécessaires pour chaque étape. C&#8217;est très intéressant. Vous pouvez créer un beau cadeau. <b><br />
 </b><br />
 <a href="http://www.morinoyakata.com/index.html"><strong>Site officiel de Mori-No-Yakata</strong></a>(en japonais)</p>
@@ -156,8 +156,8 @@ Genbudo est un monument naturel national. Il s’agit d’une grotte formée dan
 Il s’agit d’un des trois sites les plus pittoresques du Japon. Amanohashidate signifie « le pont céleste ». En effet, si l’on regarde ce banc de sable couvert de pins à l’envers (photo ci-dessous), un pont apparaît entre la terre et le ciel.</p>
 <p>En été, beaucoup de gens visitent ce petit village pour sa plage, et en hiver, c’est la saison pour profiter des eaux thermales et manger de bonnes choses, comme de fameux fruits de mer.</p>
 <p>Pour y accéder, Kitakinki Tango Railroad (le train local) est pratique. Au départ de ma ville, Toyo -oka, il faut à peu près une heure de trajet. C’est très amusant d’être dans ce petit train, tout en regardant le paysage très paisible.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p8250064.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dscn0868.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p8250064.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dscn0868.jpg" /></p>
 <p>Par ailleurs, un belvédère est accessible en téléphérique ! Les gens regardent de là le paysage à l’envers entre leurs jambes.<br />
 Il y a un petit restaurant aussi.</p>
 <p>・<a href="http://www.amanohashidate.js">Amanohashidate Tourism Office</a> (en japonais)<br />
@@ -166,19 +166,19 @@ Il y a un petit restaurant aussi.</p>
 <p>&nbsp;</p>
 <p><strong>–La mer du Japon </strong>—<br />
 Les villes et les villages du côté de la mer du Japon sont loin d’être urbanisés. Ils gardent leurs traditions et leur style de la vie. Les paysages sont donc très beaux. Vous trouvez aussi de belles auberges, entourées de nature.</p>
-<p><img src="/npfr-archive/imgs/toyooka%20slide/DSCN0537%20%28WinCE%29.js" /></p>
-<p><img src="/npfr-archive/imgs/toyooka%20slide/DSCN0539%20%28WinCE%29.js" /></p>
+<p><img src="/imgs/toyooka%20slide/DSCN0537%20%28WinCE%29.js" /></p>
+<p><img src="/imgs/toyooka%20slide/DSCN0539%20%28WinCE%29.js" /></p>
 <p>Chaque fois que nous visitons Toyo -oka, nous allons pêcher. Mon mari aime cette activité, peu importe qu’il attrape du poisson ou non.</p>
-<p><img src="/npfr-archive/imgs/Sea%20of%20Japan%20slide/DSCN0492%20%28WinCE%29.js" /></p>
-<p><img src="/npfr-archive/imgs/Sea%20of%20Japan%20slide/DSCN0493%20%28WinCE%29.js" /><br />
+<p><img src="/imgs/Sea%20of%20Japan%20slide/DSCN0492%20%28WinCE%29.js" /></p>
+<p><img src="/imgs/Sea%20of%20Japan%20slide/DSCN0493%20%28WinCE%29.js" /><br />
 L’île de Kaeru (grenouille). Arrivez-vous à la distinguer ?</p>
-<p><img src="/npfr-archive/imgs/Sea%20of%20Japan%20slide/DSCN0488%20%28WinCE%29.js" /><br />
+<p><img src="/imgs/Sea%20of%20Japan%20slide/DSCN0488%20%28WinCE%29.js" /><br />
 Hasakari Iwa, soit « la roche coincée ».</p>
-<p><img src="/npfr-archive/imgs/Onsen/takeno%20%28WinCE%29.JPG" alt="inn" width="213" height="246" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dsc_10018.jpg" /></p>
+<p><img src="/imgs/Onsen/takeno%20%28WinCE%29.JPG" alt="inn" width="213" height="246" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dsc_10018.jpg" /></p>
 <p>Beaucoup d’endroits sont à découvrir.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000282.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000519.jpg" /><strong><br />
+<p><img title="" src="/wp-content/uploads/2004/06/p1000282.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000519.jpg" /><strong><br />
 </strong></p>
 <p>Vous pourrez profiter de toutes sortes d’activités : nage, pêche, randonnée, ou camping.  En fait, cette région est enregistrée comme parc national.</p>
 <p>L’une des plages très fréquentées est la plage de Takeno. Chaque année beaucoup de gens y viennent pendant leurs vacances. A noter, un petit hôtel appelé <strong>Takeno-Kaigan National Park Resort Inn</strong>.</p>
@@ -186,25 +186,25 @@ Hasakari Iwa, soit « la roche coincée ».</p>
 <p><strong style="line-height: 1.5em;">National Park Resort Villages<br />
 </strong><strong><a href="http://www.qkamura.or.js">Homepage</a></strong> (en anglais)</p>
 <p>Le tarif d’une chambre est plutôt raisonnable. Voilà quelques photos de l’intérieur d’hôtel.</p>
-<p><img src="/npfr-archive/imgs/Onsen/dscn2192%20%28WinCE%29.js" /><br />
+<p><img src="/imgs/Onsen/dscn2192%20%28WinCE%29.js" /><br />
 Très propre, calme, et accueillant.</p>
-<p><img src="/npfr-archive/imgs/Onsen/dscn2155%20%28WinCE%29.js" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000348.jpg" /><br />
+<p><img src="/imgs/Onsen/dscn2155%20%28WinCE%29.js" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/p1000348.jpg" /><br />
 La cuisine est somptueuse !</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dscn2154.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dscn2156.jpg" /><br />
+<p><img title="" src="/wp-content/uploads/2004/06/dscn2154.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dscn2156.jpg" /><br />
 Beau et délicieux.</p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dscn2158.jpg" /></p>
-<p><img title="" src="/npfr-archive/wp-content/uploads/2004/06/dscn2157.jpg" /><br />
+<p><img title="" src="/wp-content/uploads/2004/06/dscn2158.jpg" /></p>
+<p><img title="" src="/wp-content/uploads/2004/06/dscn2157.jpg" /><br />
 Une grande variété de plats. Tous les ingrédients sont frais et proviennent de la région.</p>
 <p>&nbsp;</p>
 <p><strong>&#8212;Autres spécialités de Toyo -oka&#8212;<br />
 </strong></p>
-<p><img src="/npfr-archive/imgs/toyooka%20slide/DSCN0662%20%28WinCE%29.JPG" alt="soba" width="240" height="180" border="0" /></p>
-<p><img src="/npfr-archive/imgs/toyooka%20slide/DSCN0666%20%28WinCE%29.JPG" alt="soba" width="240" height="180" border="0" /><br />
+<p><img src="/imgs/toyooka%20slide/DSCN0662%20%28WinCE%29.JPG" alt="soba" width="240" height="180" border="0" /></p>
+<p><img src="/imgs/toyooka%20slide/DSCN0666%20%28WinCE%29.JPG" alt="soba" width="240" height="180" border="0" /><br />
 <strong><a href="http://www.tokosesoba.com/">Tokose soba</a> </strong>(un autre restaurant de soba)</p>
 <p>Tokose soba est une autre bonne adresse pour vous. Ils servent des pâtes faites maison. C’est excellent ! Ils n’ont pas de chaise ni de table. On s’assoit autour de la cheminée traditionnelle japonaise. L’accès est un peu difficile, parce que ce restaurant se trouve dans un coin vraiment isolé : vous avez besoin d’une voiture. Plus d’info sur leur site.</p>
-<p><img style="line-height: 1.5em;" title="" src="/npfr-archive/wp-content/uploads/2004/06/p1000338.resized.jpg" /></p>
+<p><img style="line-height: 1.5em;" title="" src="/wp-content/uploads/2004/06/p1000338.resized.jpg" /></p>
 <p><strong>Tajima ushi</strong> (bœuf de Tajima)</p>
 <p>La région de Tajima offre non seulement des fruits de mer ou les soba, mais aussi du bœuf de grande qualité. Le bœuf de Tajima fourni parmi les meilleurs spécimens de la race <strong>Wagyu</strong> (les bovins japonais).</p>
 <p>Vous avez probablement entendu parler du <strong>bœuf de Kobe</strong>, dont le prix est très élevé. Ce bœuf est en train de devenir populaire en France.</p>
@@ -213,11 +213,11 @@ Une grande variété de plats. Tous les ingrédients sont frais et proviennent d
 <p>Le bœuf de Tajima est plutôt petit, mais très costaud. Il vit longtemps et se reproduit facilement, d’où leur popularité autrefois pour les tâches quotidiennes.</p>
 <p>A l’époque de Meiji, le bœuf de Tajima est devenu célèbre sous le nom de bœuf de Kobe. Certains étrangers qui vivaient alors à Kobe trouvèrent ce bœuf excellent et contribuèrent à le populariser, notamment auprès des autres zones portuaires comme Yokohama. Ainsi, le bœuf de Tajima finit par être surnommé le bœuf de &#8220;Kobe&#8221;.</p>
 <p>Donc, n’oubliez pas que le bœuf de Tajima est à l’origine du bœuf de Kobe !</p>
-<p><img src="/npfr-archive/imgs/tajima%20beef/steak.gif" alt="tajima beef" width="259" height="173" /></p>
+<p><img src="/imgs/tajima%20beef/steak.gif" alt="tajima beef" width="259" height="173" /></p>
 <p>Goûtez ce bœuf tendre et délicieux, servi à table par certains restaurants ou ryokan.</p>
-<p><img class="alignnone size-medium wp-image-6798" src="/npfr-archive/wp-content/uploads/2014/09/2014-08-13-12.05.41-300x225.jpg" /><br />
+<p><img class="alignnone size-medium wp-image-6798" src="/wp-content/uploads/2014/09/2014-08-13-12.05.41-300x225.jpg" /><br />
 <strong><a href="http://www.tajima-beef.js">Restaurant Hamada</a> : </strong>Ils servent le meilleur bœuf au Japon ou même dans lo monde !</p>
-<p><img class="" src="/npfr-archive/imgs/toyooka%20slide/DSCN0677%20%28WinCE%29.js" /><br />
+<p><img class="" src="/imgs/toyooka%20slide/DSCN0677%20%28WinCE%29.js" /><br />
 <strong><a href="http://www.uminoeki.co.js">Umi no Ie restaurant</a></strong> (Restaurant Sea House/en japonais)</p>
 <p>Si vous cherchez un bon restaurant de fruits de mer, je recommande le &#8220;Umi no Ie&#8221;. Il se trouve à mi-chemin entre Toyo -oka et Kinosaki. Il est accolé à un marché couvert, où vous pourrez aussi trouver beaucoup de souvenirs.</p>
 <p>Si vous avez l’occasion de venir dans le Kansai, visitez ma ville. Vous y trouverez une autre facette du Japon, peu connue des étrangers.<br />
@@ -226,7 +226,7 @@ Ce n’est pas une grande ville, mais si vous aimez la nature, vous apprécierez
 			</item>
 		<item>
 		<title>Choisir un bon restaurant japonais</title>
-		<link>/npfr-archive/fr/archives/927</link>
+		<link>/fr/archives/927</link>
 		<pubDate>Thu, 10 Jun 2010 18:03:18 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[En France]]></category>
@@ -239,7 +239,7 @@ Ce n’est pas une grande ville, mais si vous aimez la nature, vous apprécierez
 		<category><![CDATA[sushi]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=927</guid>
-		<description><![CDATA[La gastronomie japonaise est à la mode, et ça se voit. Une multitude de restaurants japonais se sont ouverts et ils ne désemplissent pas. Mais, peut-on encore vraiment parler de gastronomie ? Les tarifs pratiqués en général ont plutôt tendance à le faire croire. Il faut pourtant garder à l&#8217;esprit qu&#8217;en fait de restaurants japonais, &#8230; <a href="/npfr-archive/fr/archives/927" class="more-link">Continue reading <span class="screen-reader-text">Choisir un bon restaurant japonais</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[La gastronomie japonaise est à la mode, et ça se voit. Une multitude de restaurants japonais se sont ouverts et ils ne désemplissent pas. Mais, peut-on encore vraiment parler de gastronomie ? Les tarifs pratiqués en général ont plutôt tendance à le faire croire. Il faut pourtant garder à l&#8217;esprit qu&#8217;en fait de restaurants japonais, &#8230; <a href="/fr/archives/927" class="more-link">Continue reading <span class="screen-reader-text">Choisir un bon restaurant japonais</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>La gastronomie japonaise est à la mode, et ça se voit. Une multitude de restaurants japonais se sont ouverts et ils ne désemplissent pas. Mais, peut-on encore vraiment parler de gastronomie ?</p>
 <p>Les tarifs pratiqués en général ont plutôt tendance à le faire croire. Il faut pourtant garder à l&#8217;esprit qu&#8217;en fait de restaurants japonais, la plupart sont des restaurants chinois ou d&#8217;Asie du Sud-Est reconvertis pour surfer sur la vague actuelle.<br />
 Sans vouloir jeter l&#8217;opprobre sur la totalité d&#8217;entre eux, car il doit y en avoir des sérieux, force est de constater que cette reconversion s&#8217;est apparemment faite à la va-vite, sans respect des traditions culinaires. Combien de leurs chefs sont allé étudier la cuisine au Japon avant d&#8217;ouvrir leur restaurant ?</p>
@@ -285,12 +285,12 @@ Autre exemple, certains restaurants à ramen de Paris ont du personnel essentiel
 <p>Bien sûr, on ne trouvera jamais ni la qualité, ni le rapport qualité/prix des petits restaurant du Japon, ce qui est normal puisque cela nécessite une organisation dédiée du marché, mais il est tout à fait possible de bien manger en évitant quelques pièges. Je vous invite à jeter un oeil à <a href="../../guides_fr/restaurants.html">ma sélection personnelle</a> et à venir la compléter en partageant vos propres expériences.</p>
 <p><img src="../../imgs/restaurants/dscn2156%20%28Small%29.js" /></p>
 <p><em>un festin de gastronomie japonaise&#8230; </em></p>
-<p><strong>EDIT du 2/10/2006 : je ne suis pas le seul à penser cela puisqu&#8217;une association japonaise travaille pour défendre la gastronomie japonais authentique. <a href="/npfr-archive/fr/archives/771">Plus d&#8217;informations ici</a>. </strong></p>
+<p><strong>EDIT du 2/10/2006 : je ne suis pas le seul à penser cela puisqu&#8217;une association japonaise travaille pour défendre la gastronomie japonais authentique. <a href="/fr/archives/771">Plus d&#8217;informations ici</a>. </strong></p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>Cuisine Japonaise Authentique</title>
-		<link>/npfr-archive/fr/archives/771</link>
+		<link>/fr/archives/771</link>
 		<pubDate>Sun, 28 Jan 2007 17:20:45 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Journal]]></category>
@@ -299,7 +299,7 @@ Autre exemple, certains restaurants à ramen de Paris ont du personnel essentiel
 		<category><![CDATA[restaurant]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=771</guid>
-		<description><![CDATA[Enfin ! Comme l&#8217;a fait remarquer un de nos fidèles visiteurs (merci Will 😉 ), le label qui va nous permettre de distinguer les vrais restaurants japonais des autres vient de sortir. Vous vous rappelez, j&#8217;en avais parlé dans le blog 2006 et également dans cet article, &#8220;comment choisir un bon restaurant japonais&#8220;. Pour l&#8217;instant, &#8230; <a href="/npfr-archive/fr/archives/771" class="more-link">Continue reading <span class="screen-reader-text">Cuisine Japonaise Authentique</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[Enfin ! Comme l&#8217;a fait remarquer un de nos fidèles visiteurs (merci Will 😉 ), le label qui va nous permettre de distinguer les vrais restaurants japonais des autres vient de sortir. Vous vous rappelez, j&#8217;en avais parlé dans le blog 2006 et également dans cet article, &#8220;comment choisir un bon restaurant japonais&#8220;. Pour l&#8217;instant, &#8230; <a href="/fr/archives/771" class="more-link">Continue reading <span class="screen-reader-text">Cuisine Japonaise Authentique</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>Enfin ! Comme l&#8217;a fait remarquer un de nos fidèles visiteurs (merci  Will <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ), le label qui va nous permettre de distinguer les vrais  restaurants japonais des autres vient de sortir.</p>
 <p>Vous vous rappelez, j&#8217;en avais parlé dans le <a href="../../blog_fr/blog2006.html#restaurants">blog 2006</a> et également dans cet article, &#8220;<a href="../../guides_fr/choisir_un_bon_restaurant_japonais.html">comment  choisir un bon restaurant japonais</a>&#8220;.</p>
 <p>Pour l&#8217;instant, peu ont été distribués, ce qui ne m&#8217;étonne pas vu le  faible nombre de restaurants japonais authentiques. (EDIT :  actuellement, les restaurants étant intéressés par ce label doivent  s&#8217;inscrire, il ne s&#8217;agit donc pas de contrôles intempestifs comme un  guide classique).</p>
@@ -318,7 +318,7 @@ Autre exemple, certains restaurants à ramen de Paris ont du personnel essentiel
 			</item>
 		<item>
 		<title>Votre repas pour le prochain réveillon ?</title>
-		<link>/npfr-archive/fr/archives/773</link>
+		<link>/fr/archives/773</link>
 		<pubDate>Sun, 07 Jan 2007 17:21:37 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Journal]]></category>
@@ -327,7 +327,7 @@ Autre exemple, certains restaurants à ramen de Paris ont du personnel essentiel
 		<category><![CDATA[gastronomie]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=773</guid>
-		<description><![CDATA[Je reviens sur le nouvel an pour faire de la pub à l&#8217;épicerie JyuJya. Leur plateau Osechi pour le nouvel an est vraiment très bon. On peut vous le dire puisqu&#8217;on a testé, lors d&#8217;un réveillon très calme tout compte fait (d&#8217;autant que sortir dans Paris un tel jour, on a déjà donné !!!)&#8230; De &#8230; <a href="/npfr-archive/fr/archives/773" class="more-link">Continue reading <span class="screen-reader-text">Votre repas pour le prochain réveillon ?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[Je reviens sur le nouvel an pour faire de la pub à l&#8217;épicerie JyuJya. Leur plateau Osechi pour le nouvel an est vraiment très bon. On peut vous le dire puisqu&#8217;on a testé, lors d&#8217;un réveillon très calme tout compte fait (d&#8217;autant que sortir dans Paris un tel jour, on a déjà donné !!!)&#8230; De &#8230; <a href="/fr/archives/773" class="more-link">Continue reading <span class="screen-reader-text">Votre repas pour le prochain réveillon ?</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>Je reviens sur le nouvel an pour faire de la pub à l&#8217;épicerie JyuJya.</p>
 <p>Leur plateau Osechi pour  le nouvel an est vraiment très bon. On peut vous le dire puisqu&#8217;on a  testé, lors d&#8217;un réveillon très calme tout compte fait (d&#8217;autant que  sortir dans Paris un tel jour, on a déjà donné !!!)&#8230;</p>
 <p>De plus, il est à un prix raisonable : comptez à peu près 80 €,  normalement pour 4 personnes, mais disons plutôt pour 2 à 3 personnes&#8230;</p>
@@ -337,7 +337,7 @@ Autre exemple, certains restaurants à ramen de Paris ont du personnel essentiel
 			</item>
 		<item>
 		<title>Les restaurants japonais à Paris</title>
-		<link>/npfr-archive/fr/archives/786</link>
+		<link>/fr/archives/786</link>
 		<pubDate>Mon, 02 Oct 2006 16:28:12 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Journal]]></category>
@@ -350,7 +350,7 @@ Autre exemple, certains restaurants à ramen de Paris ont du personnel essentiel
 		<category><![CDATA[sushi]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=786</guid>
-		<description><![CDATA[J&#8217;ai écrit il y a peu un article pour bien choisir son restaurant japonais et éviter les pièges. Je viens de découvrir que le bureau parisien d&#8217;une organisation de commerce japonaise présente à l&#8217;international- JETRO PARIS &#8211; vient de commencer à travailler à un système de labelisation des restaurants japonais authentiques. Je vous laisse découvrir &#8230; <a href="/npfr-archive/fr/archives/786" class="more-link">Continue reading <span class="screen-reader-text">Les restaurants japonais à Paris</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[J&#8217;ai écrit il y a peu un article pour bien choisir son restaurant japonais et éviter les pièges. Je viens de découvrir que le bureau parisien d&#8217;une organisation de commerce japonaise présente à l&#8217;international- JETRO PARIS &#8211; vient de commencer à travailler à un système de labelisation des restaurants japonais authentiques. Je vous laisse découvrir &#8230; <a href="/fr/archives/786" class="more-link">Continue reading <span class="screen-reader-text">Les restaurants japonais à Paris</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>J&#8217;ai écrit il y a peu un article pour bien choisir son restaurant japonais et éviter les pièges.</p>
 <p>Je viens de découvrir que le bureau parisien d&#8217;une organisation de  commerce japonaise présente à l&#8217;international- <a href="http://www.js">JETRO PARIS</a> &#8211; vient de  commencer à travailler à un système de labelisation des restaurants  japonais authentiques.</p>
 <p>Je vous laisse découvrir leur travail sur leur <a href="http://www.js">site</a> et sur cet extrait d&#8217;interview du Figaro ci-dessous :</p>
@@ -370,14 +370,14 @@ Une équipe d’inspecteurs travaillant anonymement selon la         politique e
 			</item>
 		<item>
 		<title>Arrivage du Japon</title>
-		<link>/npfr-archive/fr/archives/785</link>
+		<link>/fr/archives/785</link>
 		<pubDate>Sat, 30 Sep 2006 16:27:23 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Journal]]></category>
 		<category><![CDATA[cuisine]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=785</guid>
-		<description><![CDATA[Cette semaine notre ravitaillement régulier en provenance du Japon est arrivé :)) Ma famille japonaise nous envoie régulièrement des choses auxquelles on est habitués et qui sont soit introuvables ici, soit hors de prix. Alors, au menu : un énorme sac d&#8217;algues wakame, pêchées par mon beau-père de ses mains ! Autant vous dire qu&#8217;elles &#8230; <a href="/npfr-archive/fr/archives/785" class="more-link">Continue reading <span class="screen-reader-text">Arrivage du Japon</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[Cette semaine notre ravitaillement régulier en provenance du Japon est arrivé :)) Ma famille japonaise nous envoie régulièrement des choses auxquelles on est habitués et qui sont soit introuvables ici, soit hors de prix. Alors, au menu : un énorme sac d&#8217;algues wakame, pêchées par mon beau-père de ses mains ! Autant vous dire qu&#8217;elles &#8230; <a href="/fr/archives/785" class="more-link">Continue reading <span class="screen-reader-text">Arrivage du Japon</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>Cette semaine notre ravitaillement régulier en provenance du Japon  est arrivé :)) Ma famille japonaise nous envoie régulièrement des choses  auxquelles on est habitués et qui sont soit introuvables ici, soit hors  de prix.</p>
 <p>Alors, au menu :</p>
 <ul>

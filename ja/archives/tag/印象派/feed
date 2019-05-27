@@ -9,8 +9,8 @@
 
 <channel>
 	<title>印象派 &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/ja/archives/tag/%e5%8d%b0%e8%b1%a1%e6%b4%be/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/archives/tag/%e5%8d%b0%e8%b1%a1%e6%b4%be/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>印象派の島・ルノワールの風景</title>
-		<link>/npfr-archive/ja/archives/287</link>
+		<link>/ja/archives/287</link>
 		<pubDate>Wed, 25 May 2005 20:42:28 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[フランス観光]]></category>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Histoire &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/fr/archives/category/articles/histoire/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/fr/</link>
+	<atom:link href="/fr/archives/category/articles/histoire/feed" rel="self" type="application/rss+xml" />
+	<link>/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>Origine et composition du peuple japonais</title>
-		<link>/npfr-archive/fr/archives/864</link>
+		<link>/fr/archives/864</link>
 		<pubDate>Fri, 21 Jul 2006 17:30:18 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Articles]]></category>
@@ -28,7 +28,7 @@
 		<category><![CDATA[peuple]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=864</guid>
-		<description><![CDATA[Le Japon compte à ce jour 126 millions d&#8217;habitants. Il y a peu de minorités : essentiellement des coréens (600 000, Nord et Sud) et aussi des chinois de Taiwan. Quant aux origines exactes du peuple japonais, elles demeurent toujours mystérieuses. A commencer par les origines de sa langue, méconnues. On lui trouve des similitudes &#8230; <a href="/npfr-archive/fr/archives/864" class="more-link">Continue reading <span class="screen-reader-text">Origine et composition du peuple japonais</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[Le Japon compte à ce jour 126 millions d&#8217;habitants. Il y a peu de minorités : essentiellement des coréens (600 000, Nord et Sud) et aussi des chinois de Taiwan. Quant aux origines exactes du peuple japonais, elles demeurent toujours mystérieuses. A commencer par les origines de sa langue, méconnues. On lui trouve des similitudes &#8230; <a href="/fr/archives/864" class="more-link">Continue reading <span class="screen-reader-text">Origine et composition du peuple japonais</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>Le          Japon compte à ce jour 126 millions d&#8217;habitants.          Il y a peu de minorités : essentiellement          des coréens (600 000, Nord et Sud) et aussi          des chinois de Taiwan.</p>
 <p>Quant          aux origines exactes du peuple japonais, elles demeurent          toujours mystérieuses.</p>
 <p>A          commencer par les origines de sa langue, méconnues.          On lui trouve des similitudes avec la famille altaïque          (turc, mongol, tongous, coréen) au niveau          de la syntaxe, la phonologie et la sémantique.          La sémantique pourrait aussi s&#8217;apparenter          avec les langues malayo-polynésiennes.<br />
@@ -52,7 +52,7 @@ Pour preuve de son isolement, le Japon n&#8217;a connu          au début de son
 			</item>
 		<item>
 		<title>Chronologie de l’Histoire japonaise</title>
-		<link>/npfr-archive/fr/archives/862</link>
+		<link>/fr/archives/862</link>
 		<pubDate>Fri, 21 Jul 2006 17:28:24 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Articles]]></category>
@@ -62,7 +62,7 @@ Pour preuve de son isolement, le Japon n&#8217;a connu          au début de son
 		<category><![CDATA[histoire]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=862</guid>
-		<description><![CDATA[Dans cette chronologie vous trouverez les points importants de l&#8217;Histoire du Japon en guise de repères temporels. Chacunes de ses périodes font déjà ou feront l&#8217;objet d&#8217;articles dans notre rubrique culture, afin de donner toutes les explications et commentaires nécessaires. Ere Ere chrétienne Dates clés Paleolithique ~100 000 avJC Débuts d&#8217;activité humaine sur l&#8217;achipel nippon. &#8230; <a href="/npfr-archive/fr/archives/862" class="more-link">Continue reading <span class="screen-reader-text">Chronologie de l’Histoire japonaise</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[Dans cette chronologie vous trouverez les points importants de l&#8217;Histoire du Japon en guise de repères temporels. Chacunes de ses périodes font déjà ou feront l&#8217;objet d&#8217;articles dans notre rubrique culture, afin de donner toutes les explications et commentaires nécessaires. Ere Ere chrétienne Dates clés Paleolithique ~100 000 avJC Débuts d&#8217;activité humaine sur l&#8217;achipel nippon. &#8230; <a href="/fr/archives/862" class="more-link">Continue reading <span class="screen-reader-text">Chronologie de l’Histoire japonaise</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>Dans          cette chronologie vous trouverez les points importants          de l&#8217;Histoire du Japon en guise de repères          temporels. Chacunes de ses périodes font déjà          ou feront l&#8217;objet d&#8217;articles dans notre rubrique culture,          afin de donner toutes les explications et commentaires          nécessaires.</p>
 <table border="1" cellspacing="0" cellpadding="5">
 <tbody>
@@ -519,7 +519,7 @@ Pour preuve de son isolement, le Japon n&#8217;a connu          au début de son
 			</item>
 		<item>
 		<title>L’écriture japonaise</title>
-		<link>/npfr-archive/fr/archives/855</link>
+		<link>/fr/archives/855</link>
 		<pubDate>Fri, 21 Jul 2006 17:21:34 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Articles]]></category>
@@ -529,7 +529,7 @@ Pour preuve de son isolement, le Japon n&#8217;a connu          au début de son
 		<category><![CDATA[japonais]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=855</guid>
-		<description><![CDATA[L&#8217;écriture est apparue au Japon assez tard, problement vers le III° siècle, date à laquelle on trouve les premières sources écrites japonaises. L&#8217;écriture chinoise a été dans un premier temps importée intégralement du continent. L&#8217;empire chinois était alors très puissant, et exerçait une influence culturelle forte sur ses voisins. Ainsi, jusqu&#8217;au VIII° siècle, le chinois &#8230; <a href="/npfr-archive/fr/archives/855" class="more-link">Continue reading <span class="screen-reader-text">L’écriture japonaise</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[L&#8217;écriture est apparue au Japon assez tard, problement vers le III° siècle, date à laquelle on trouve les premières sources écrites japonaises. L&#8217;écriture chinoise a été dans un premier temps importée intégralement du continent. L&#8217;empire chinois était alors très puissant, et exerçait une influence culturelle forte sur ses voisins. Ainsi, jusqu&#8217;au VIII° siècle, le chinois &#8230; <a href="/fr/archives/855" class="more-link">Continue reading <span class="screen-reader-text">L’écriture japonaise</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p><img src="file:///tmp/moz-screenshot-1.png" alt="" /></p>
 <p><img src="file:///tmp/moz-screenshot-2.png" alt="" /></p>
 <p>L&#8217;écriture          est apparue au Japon assez tard, problement vers le          III° siècle, date à laquelle on trouve les premières          sources écrites japonaises.</p>
@@ -568,7 +568,7 @@ Pour preuve de son isolement, le Japon n&#8217;a connu          au début de son
 			</item>
 		<item>
 		<title>Histoire et conception du Droit au Japon</title>
-		<link>/npfr-archive/fr/archives/834</link>
+		<link>/fr/archives/834</link>
 		<pubDate>Thu, 09 Jun 2005 16:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Articles]]></category>
@@ -576,7 +576,7 @@ Pour preuve de son isolement, le Japon n&#8217;a connu          au début de son
 		<category><![CDATA[Politique et Institutions]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=834</guid>
-		<description><![CDATA[Malgré toute la prudence qu’une telle démarche ne manque pas d’imposer et au-delà des divergences doctrinales, les juristes français définissent traditionnellement le droit, soit sous un angle objectif comme un ensemble de règles sanctionnées par l’Etat et participant prioritairement au maintien de l’ordre social, soit sous un angle subjectif comme l’ensemble des prérogatives individuelles qui permettent à &#8230; <a href="/npfr-archive/fr/archives/834" class="more-link">Continue reading <span class="screen-reader-text">Histoire et conception du Droit au Japon</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[Malgré toute la prudence qu’une telle démarche ne manque pas d’imposer et au-delà des divergences doctrinales, les juristes français définissent traditionnellement le droit, soit sous un angle objectif comme un ensemble de règles sanctionnées par l’Etat et participant prioritairement au maintien de l’ordre social, soit sous un angle subjectif comme l’ensemble des prérogatives individuelles qui permettent à &#8230; <a href="/fr/archives/834" class="more-link">Continue reading <span class="screen-reader-text">Histoire et conception du Droit au Japon</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>Malgré toute la prudence qu’une telle démarche ne manque pas  d’imposer et au-delà des divergences doctrinales, les juristes français  définissent traditionnellement le droit, soit sous un angle objectif  comme un ensemble de règles sanctionnées par l’Etat et participant  prioritairement au maintien de l’ordre social, soit sous un angle  subjectif comme l’ensemble des prérogatives individuelles qui permettent  à son titulaire de faire, d’exiger ou d’interdire quelque chose.</p>
 <p>Or, de manière globale, la culture juridique japonaise  n’adhère à aucune de ces deux définitions. En témoigne la langue, dans  laquelle on ne trouve pas d’équivalent au vocable « droit ». Néanmoins,  la nécessité conduit à établir des rapprochements. Ainsi, <em>hô </em>correspond-il  plutôt à notre notion de droit objectif et <em>kenri </em>renvoie-t-il à  celle de droit subjectif. Toutefois, ce phénomène n’est pas propre au  Japon : il touche l’ensemble de l’Extrême Orient.</p>
 <p>En effet, les peuples extrême-orientaux ne placent pas leur  confiance dans le droit pour assurer l’ordre social et la justice.  Certes, il existe un droit, mais il ne joue qu’un rôle subsidiaire. La  préservation de l’ordre social repose essentiellement sur des méthodes  de persuasion, sur des techniques de médiation et de conciliation  propres à préserver l’harmonie et ressortissant de normes de  comportement (<em>giri</em>). Ces dernières observées par crainte du  mépris social sont très proches du <em>li</em> chinois.</p>

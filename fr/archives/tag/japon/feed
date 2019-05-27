@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Japon &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/fr/archives/tag/japon/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/fr/</link>
+	<atom:link href="/fr/archives/tag/japon/feed" rel="self" type="application/rss+xml" />
+	<link>/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>Japon 3 &#8211; 1 Danemark</title>
-		<link>/npfr-archive/fr/archives/1874</link>
+		<link>/fr/archives/1874</link>
 		<pubDate>Thu, 24 Jun 2010 23:44:27 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Journal]]></category>
@@ -28,11 +28,11 @@
 		<category><![CDATA[Sport]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/?p=1874</guid>
-		<description><![CDATA[Belle victoire du Japon ! J&#8217;avoue que j&#8217;attendais pas cette équipe à ce niveau, mais que de surprises depuis le début du mondial. Les amateurs auront pu découvrir de vrais bon joueurs comme Honda, Tanaka, Okubo ou Endo pour n&#8217;en citer que quelques uns. M. Okada, le sélectionneur, peut être content. Du beau jeu, collectif, &#8230; <a href="/npfr-archive/fr/archives/1874" class="more-link">Continue reading <span class="screen-reader-text">Japon 3 &#8211; 1 Danemark</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[Belle victoire du Japon ! J&#8217;avoue que j&#8217;attendais pas cette équipe à ce niveau, mais que de surprises depuis le début du mondial. Les amateurs auront pu découvrir de vrais bon joueurs comme Honda, Tanaka, Okubo ou Endo pour n&#8217;en citer que quelques uns. M. Okada, le sélectionneur, peut être content. Du beau jeu, collectif, &#8230; <a href="/fr/archives/1874" class="more-link">Continue reading <span class="screen-reader-text">Japon 3 &#8211; 1 Danemark</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>Belle victoire du Japon !</p>
 <p>J&#8217;avoue que j&#8217;attendais pas cette équipe à ce niveau, mais que de surprises depuis le début du mondial. Les amateurs auront pu découvrir de vrais bon joueurs comme Honda, Tanaka, Okubo ou Endo pour n&#8217;en citer que quelques uns. M. Okada, le sélectionneur, <a href="http://www.7sur7.be/7s7/fr/5736/Mondial-2010/article/detail/1124715/2010/06/24/Takeshi-Okada-Cette-equipe-progresse.dhtml" target="_blank">peut être content</a>.</p>
 <p>Du beau jeu, collectif, généreux et sans calcul comme on aimerait en voir plus souvent. Félicitations et bonne continuation à cette équipe !</p>
-<p><img class="aligncenter size-full wp-image-1876" title="japon-danemark" src="/npfr-archive/wp-content/uploads/2010/06/japon-danemark.jpg" /></p>
+<p><img class="aligncenter size-full wp-image-1876" title="japon-danemark" src="/wp-content/uploads/2010/06/japon-danemark.jpg" /></p>
 ]]></content:encoded>
 			</item>
 	</channel>

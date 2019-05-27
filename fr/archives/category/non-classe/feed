@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Non classé &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/fr/archives/category/non-classe/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/fr/</link>
+	<atom:link href="/fr/archives/category/non-classe/feed" rel="self" type="application/rss+xml" />
+	<link>/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>fr-FR</language>

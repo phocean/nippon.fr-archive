@@ -9,8 +9,8 @@
 
 <channel>
 	<title>フランス語 &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/ja/archives/tag/%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e8%aa%9e/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/archives/tag/%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e8%aa%9e/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>フランス語ｖｓ英語</title>
-		<link>/npfr-archive/ja/archives/146</link>
+		<link>/ja/archives/146</link>
 		<pubDate>Mon, 23 May 2005 21:07:45 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[フランス文化社会]]></category>

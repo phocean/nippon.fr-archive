@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments for Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/fr/comments/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/fr/</link>
+	<atom:link href="/fr/comments/feed" rel="self" type="application/rss+xml" />
+	<link>/fr/</link>
 	<description></description>
 	<lastBuildDate>Sun, 26 May 2019 12:07:03 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

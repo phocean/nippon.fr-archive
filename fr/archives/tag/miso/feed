@@ -9,8 +9,8 @@
 
 <channel>
 	<title>miso &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/fr/archives/tag/miso/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/fr/</link>
+	<atom:link href="/fr/archives/tag/miso/feed" rel="self" type="application/rss+xml" />
+	<link>/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>Choisir un bon restaurant japonais</title>
-		<link>/npfr-archive/fr/archives/927</link>
+		<link>/fr/archives/927</link>
 		<pubDate>Thu, 10 Jun 2010 18:03:18 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[En France]]></category>
@@ -32,7 +32,7 @@
 		<category><![CDATA[sushi]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=927</guid>
-		<description><![CDATA[La gastronomie japonaise est à la mode, et ça se voit. Une multitude de restaurants japonais se sont ouverts et ils ne désemplissent pas. Mais, peut-on encore vraiment parler de gastronomie ? Les tarifs pratiqués en général ont plutôt tendance à le faire croire. Il faut pourtant garder à l&#8217;esprit qu&#8217;en fait de restaurants japonais, &#8230; <a href="/npfr-archive/fr/archives/927" class="more-link">Continue reading <span class="screen-reader-text">Choisir un bon restaurant japonais</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[La gastronomie japonaise est à la mode, et ça se voit. Une multitude de restaurants japonais se sont ouverts et ils ne désemplissent pas. Mais, peut-on encore vraiment parler de gastronomie ? Les tarifs pratiqués en général ont plutôt tendance à le faire croire. Il faut pourtant garder à l&#8217;esprit qu&#8217;en fait de restaurants japonais, &#8230; <a href="/fr/archives/927" class="more-link">Continue reading <span class="screen-reader-text">Choisir un bon restaurant japonais</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>La gastronomie japonaise est à la mode, et ça se voit. Une multitude de restaurants japonais se sont ouverts et ils ne désemplissent pas. Mais, peut-on encore vraiment parler de gastronomie ?</p>
 <p>Les tarifs pratiqués en général ont plutôt tendance à le faire croire. Il faut pourtant garder à l&#8217;esprit qu&#8217;en fait de restaurants japonais, la plupart sont des restaurants chinois ou d&#8217;Asie du Sud-Est reconvertis pour surfer sur la vague actuelle.<br />
 Sans vouloir jeter l&#8217;opprobre sur la totalité d&#8217;entre eux, car il doit y en avoir des sérieux, force est de constater que cette reconversion s&#8217;est apparemment faite à la va-vite, sans respect des traditions culinaires. Combien de leurs chefs sont allé étudier la cuisine au Japon avant d&#8217;ouvrir leur restaurant ?</p>
@@ -78,7 +78,7 @@ Autre exemple, certains restaurants à ramen de Paris ont du personnel essentiel
 <p>Bien sûr, on ne trouvera jamais ni la qualité, ni le rapport qualité/prix des petits restaurant du Japon, ce qui est normal puisque cela nécessite une organisation dédiée du marché, mais il est tout à fait possible de bien manger en évitant quelques pièges. Je vous invite à jeter un oeil à <a href="../../guides_fr/restaurants.html">ma sélection personnelle</a> et à venir la compléter en partageant vos propres expériences.</p>
 <p><img src="../../imgs/restaurants/dscn2156%20%28Small%29.js" /></p>
 <p><em>un festin de gastronomie japonaise&#8230; </em></p>
-<p><strong>EDIT du 2/10/2006 : je ne suis pas le seul à penser cela puisqu&#8217;une association japonaise travaille pour défendre la gastronomie japonais authentique. <a href="/npfr-archive/fr/archives/771">Plus d&#8217;informations ici</a>. </strong></p>
+<p><strong>EDIT du 2/10/2006 : je ne suis pas le seul à penser cela puisqu&#8217;une association japonaise travaille pour défendre la gastronomie japonais authentique. <a href="/fr/archives/771">Plus d&#8217;informations ici</a>. </strong></p>
 ]]></content:encoded>
 			</item>
 	</channel>

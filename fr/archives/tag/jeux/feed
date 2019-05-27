@@ -9,8 +9,8 @@
 
 <channel>
 	<title>jeux &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/fr/archives/tag/jeux/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/fr/</link>
+	<atom:link href="/fr/archives/tag/jeux/feed" rel="self" type="application/rss+xml" />
+	<link>/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>Le pachinko</title>
-		<link>/npfr-archive/fr/archives/898</link>
+		<link>/fr/archives/898</link>
 		<pubDate>Thu, 20 Jul 2006 17:47:18 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Articles]]></category>
@@ -30,7 +30,7 @@
 		<category><![CDATA[loisir]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=898</guid>
-		<description><![CDATA[enseigne de pachinko à Tokyo Le pachinko est un jeu de hasard unique, que l&#8217;on ne retrouvera qu&#8217;au Japon. C&#8217;est le loisir le plus populaire au Japon. Aussi les maisons de pachinko sont partout : il y en aurait 15 000 sur tout le territoire, soit 4,7 millions de machines, employant 320 000 personnes et &#8230; <a href="/npfr-archive/fr/archives/898" class="more-link">Continue reading <span class="screen-reader-text">Le pachinko</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[enseigne de pachinko à Tokyo Le pachinko est un jeu de hasard unique, que l&#8217;on ne retrouvera qu&#8217;au Japon. C&#8217;est le loisir le plus populaire au Japon. Aussi les maisons de pachinko sont partout : il y en aurait 15 000 sur tout le territoire, soit 4,7 millions de machines, employant 320 000 personnes et &#8230; <a href="/fr/archives/898" class="more-link">Continue reading <span class="screen-reader-text">Le pachinko</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p><img src="../../imgs/pachinko/pachin1.gif" alt="." width="286" height="194" /></p>
 <p><em> enseigne de pachinko à Tokyo</em></p>
 <div>Le          pachinko est un jeu de hasard unique, que l&#8217;on ne retrouvera          qu&#8217;au Japon. C&#8217;est le loisir le plus populaire au Japon.</div>

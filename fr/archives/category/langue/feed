@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Langue &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/fr/archives/category/langue/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/fr/</link>
+	<atom:link href="/fr/archives/category/langue/feed" rel="self" type="application/rss+xml" />
+	<link>/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -19,13 +19,13 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>Proverbes</title>
-		<link>/npfr-archive/fr/archives/944</link>
+		<link>/fr/archives/944</link>
 		<pubDate>Thu, 10 Jun 2010 18:14:22 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Langue]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=944</guid>
-		<description><![CDATA[1.　明日の百より今日の五十 （あすのひゃくよりきょうのごじゅう） Vocabulaire : あす: demain ひゃく : cent きょう : aujourd&#8217;hui ごじゅう : cinquante Traduction littérale : 50 &#8220;aujourd&#8217;hui&#8221; valent mieux que 100 &#8220;demain&#8221;. Proverbe équivalent en français : Un &#8220;tu l&#8217;as&#8221; vaut mieux que deux &#8220;tu l&#8217;auras&#8221;. Morale : S&#8217;en tenir prudemment à ce que l&#8217;on peut avoir dans l&#8217;instant présent, car on &#8230; <a href="/npfr-archive/fr/archives/944" class="more-link">Continue reading <span class="screen-reader-text">Proverbes</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[1.　明日の百より今日の五十 （あすのひゃくよりきょうのごじゅう） Vocabulaire : あす: demain ひゃく : cent きょう : aujourd&#8217;hui ごじゅう : cinquante Traduction littérale : 50 &#8220;aujourd&#8217;hui&#8221; valent mieux que 100 &#8220;demain&#8221;. Proverbe équivalent en français : Un &#8220;tu l&#8217;as&#8221; vaut mieux que deux &#8220;tu l&#8217;auras&#8221;. Morale : S&#8217;en tenir prudemment à ce que l&#8217;on peut avoir dans l&#8217;instant présent, car on &#8230; <a href="/fr/archives/944" class="more-link">Continue reading <span class="screen-reader-text">Proverbes</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>1.　<strong>明日の百より今日の五十</strong> （あすのひゃくよりきょうのごじゅう）</p>
 <p><strong><em>Vocabulaire</em></strong> :<br />
 あす: demain<br />
@@ -42,13 +42,13 @@ S&#8217;en tenir prudemment à ce que l&#8217;on peut avoir dans          l&#821
 			</item>
 		<item>
 		<title>Table Katakana</title>
-		<link>/npfr-archive/fr/archives/941</link>
+		<link>/fr/archives/941</link>
 		<pubDate>Thu, 10 Jun 2010 18:13:19 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Langue]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=941</guid>
-		<description><![CDATA[ア a イ i ウ u エ e オ o カ ka キ ki ク ku ケ ke コ ko サ sa シ shi ス su セ se ソ so タ ta チ chi ツ tsu テ te ト to ナ na ニ ni ヌ nu ネ ne ノ no ハ ha ヒ hi フ &#8230; <a href="/npfr-archive/fr/archives/941" class="more-link">Continue reading <span class="screen-reader-text">Table Katakana</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[ア a イ i ウ u エ e オ o カ ka キ ki ク ku ケ ke コ ko サ sa シ shi ス su セ se ソ so タ ta チ chi ツ tsu テ te ト to ナ na ニ ni ヌ nu ネ ne ノ no ハ ha ヒ hi フ &#8230; <a href="/fr/archives/941" class="more-link">Continue reading <span class="screen-reader-text">Table Katakana</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<table border="1" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
@@ -346,13 +346,13 @@ S&#8217;en tenir prudemment à ce que l&#8217;on peut avoir dans          l&#821
 			</item>
 		<item>
 		<title>Table Hiragana</title>
-		<link>/npfr-archive/fr/archives/938</link>
+		<link>/fr/archives/938</link>
 		<pubDate>Thu, 10 Jun 2010 18:11:59 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Langue]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=938</guid>
-		<description><![CDATA[あ a い i う u え e お o か ka き ki く ku け ke こ ko さ sa し shi す su せ se そ so た ta ち chi つ tsu て te と to な na に ni ぬ nu ね ne の no は ha ひ hi ふ &#8230; <a href="/npfr-archive/fr/archives/938" class="more-link">Continue reading <span class="screen-reader-text">Table Hiragana</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[あ a い i う u え e お o か ka き ki く ku け ke こ ko さ sa し shi す su せ se そ so た ta ち chi つ tsu て te と to な na に ni ぬ nu ね ne の no は ha ひ hi ふ &#8230; <a href="/fr/archives/938" class="more-link">Continue reading <span class="screen-reader-text">Table Hiragana</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<table border="1" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
@@ -650,13 +650,13 @@ S&#8217;en tenir prudemment à ce que l&#8217;on peut avoir dans          l&#821
 			</item>
 		<item>
 		<title>Les cours de japonais de NHK</title>
-		<link>/npfr-archive/fr/archives/931</link>
+		<link>/fr/archives/931</link>
 		<pubDate>Sun, 10 Jun 2007 18:06:17 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Langue]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=931</guid>
-		<description><![CDATA[La chaîne NHK offre sur son site des cours de japonais audio gratuitement, et ce en plusieurs langues. Vous connaissiez peut-être l&#8217;information ou pas, mais vous vous demandez en quoi cela nécessite d&#8217;en faire un article ? En fait, le but est ici de vous montrer comment rapatrier ces cours sur votre ordinateur, pour les &#8230; <a href="/npfr-archive/fr/archives/931" class="more-link">Continue reading <span class="screen-reader-text">Les cours de japonais de NHK</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[La chaîne NHK offre sur son site des cours de japonais audio gratuitement, et ce en plusieurs langues. Vous connaissiez peut-être l&#8217;information ou pas, mais vous vous demandez en quoi cela nécessite d&#8217;en faire un article ? En fait, le but est ici de vous montrer comment rapatrier ces cours sur votre ordinateur, pour les &#8230; <a href="/fr/archives/931" class="more-link">Continue reading <span class="screen-reader-text">Les cours de japonais de NHK</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>La chaîne NHK offre sur son site des <a href="http://www.nhk.or.js">cours de japonais</a> audio  gratuitement, et ce en plusieurs langues.</p>
 <p><img src="../../imgs/NHK/NHK.js" /></p>
 <p>Vous connaissiez peut-être l&#8217;information ou pas, mais vous vous  demandez en quoi cela nécessite d&#8217;en faire un article ?</p>
@@ -703,13 +703,13 @@ Cette fois, au lieu de choisir &#8220;<strong>ouvrir</strong>&#8221; dans le  me
 			</item>
 		<item>
 		<title>Logiciels Linux pour le japonais</title>
-		<link>/npfr-archive/fr/archives/929</link>
+		<link>/fr/archives/929</link>
 		<pubDate>Sun, 10 Jun 2007 18:04:56 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Langue]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=929</guid>
-		<description><![CDATA[En ces temps où je m&#8217;efforce d&#8217;améliorer mon japonais, j&#8217;ai découvert quelques outils qui m&#8217;aident bien. Il s&#8217;agit de 3 petits logiciels qui se complètent bien : Kanatest, Language Drills et enfin Tango Blaster. Autant vous prévenir tout de suite : exception faite de Tango Blaster qui est multi-plateforme, ces logiciels sont des développements Linux. &#8230; <a href="/npfr-archive/fr/archives/929" class="more-link">Continue reading <span class="screen-reader-text">Logiciels Linux pour le japonais</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[En ces temps où je m&#8217;efforce d&#8217;améliorer mon japonais, j&#8217;ai découvert quelques outils qui m&#8217;aident bien. Il s&#8217;agit de 3 petits logiciels qui se complètent bien : Kanatest, Language Drills et enfin Tango Blaster. Autant vous prévenir tout de suite : exception faite de Tango Blaster qui est multi-plateforme, ces logiciels sont des développements Linux. &#8230; <a href="/fr/archives/929" class="more-link">Continue reading <span class="screen-reader-text">Logiciels Linux pour le japonais</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>En ces temps où je m&#8217;efforce d&#8217;améliorer mon japonais, j&#8217;ai découvert  quelques outils qui m&#8217;aident bien.</p>
 <p>Il s&#8217;agit de 3 petits logiciels qui se complètent bien :  Kanatest, Language Drills et enfin Tango Blaster.</p>
 <p>Autant vous prévenir tout de suite : exception faite de Tango  Blaster qui est multi-plateforme, ces logiciels sont des développements  Linux.</p>
@@ -737,13 +737,13 @@ Cette fois, au lieu de choisir &#8220;<strong>ouvrir</strong>&#8221; dans le  me
 			</item>
 		<item>
 		<title>Ecrire le japonais avec Windows</title>
-		<link>/npfr-archive/fr/archives/936</link>
+		<link>/fr/archives/936</link>
 		<pubDate>Sat, 10 Jun 2006 18:09:09 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Langue]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=936</guid>
-		<description><![CDATA[L&#8217;installation ci-dessus présente un problème avec les claviers français AZERTY et rend l&#8217;écriture du japonais fastidieuse. Windows IME n&#8217;est dédié par défaut qu&#8217;au clavier américain QWERTY et ne présente aucune option dans son interface permettant la prise en charge d&#8217;autres claviers. Il faut donc modifier manuellement la base de registre. Téléchargez (clic droit / enregistrer &#8230; <a href="/npfr-archive/fr/archives/936" class="more-link">Continue reading <span class="screen-reader-text">Ecrire le japonais avec Windows</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[L&#8217;installation ci-dessus présente un problème avec les claviers français AZERTY et rend l&#8217;écriture du japonais fastidieuse. Windows IME n&#8217;est dédié par défaut qu&#8217;au clavier américain QWERTY et ne présente aucune option dans son interface permettant la prise en charge d&#8217;autres claviers. Il faut donc modifier manuellement la base de registre. Téléchargez (clic droit / enregistrer &#8230; <a href="/fr/archives/936" class="more-link">Continue reading <span class="screen-reader-text">Ecrire le japonais avec Windows</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p><img src="../../imgs/ecriture-win/Diapositive2.JPG" alt="." /><br />
 <img src="../../imgs/ecriture-win/Diapositive3.JPG" alt="." width="640" height="480" /><br />
 <img src="../../imgs/ecriture-win/Diapositive4.JPG" alt="." width="640" height="480" /><br />
@@ -776,13 +776,13 @@ Cette fois, au lieu de choisir &#8220;<strong>ouvrir</strong>&#8221; dans le  me
 			</item>
 		<item>
 		<title>Apprendre à écrire en jouant : Slim Forest Adventure</title>
-		<link>/npfr-archive/fr/archives/935</link>
+		<link>/fr/archives/935</link>
 		<pubDate>Sat, 10 Jun 2006 18:08:12 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Langue]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=935</guid>
-		<description><![CDATA[site officiel http://lrnj.com/ Le jeu Voici un moyen sympa d&#8217;apprendre l&#8217;écriture japonaise : j&#8217;ai découvert et utilisé ce petit jeu RPG, et je peux vous dire que c&#8217;est vraiment efficace pour mémoriser les hiragana et katakana. Pour les kanji c&#8217;est plus difficile évidemment, mais pourquoi pas. On apprend sans se rendre compte que l&#8217;on travaille. &#8230; <a href="/npfr-archive/fr/archives/935" class="more-link">Continue reading <span class="screen-reader-text">Apprendre à écrire en jouant : Slim Forest Adventure</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[site officiel http://lrnj.com/ Le jeu Voici un moyen sympa d&#8217;apprendre l&#8217;écriture japonaise : j&#8217;ai découvert et utilisé ce petit jeu RPG, et je peux vous dire que c&#8217;est vraiment efficace pour mémoriser les hiragana et katakana. Pour les kanji c&#8217;est plus difficile évidemment, mais pourquoi pas. On apprend sans se rendre compte que l&#8217;on travaille. &#8230; <a href="/fr/archives/935" class="more-link">Continue reading <span class="screen-reader-text">Apprendre à écrire en jouant : Slim Forest Adventure</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p><em>site            officiel </em><a href="http://lrnj.com/">http://lrnj.com/</a></p>
 <p><strong>Le            jeu</strong></p>
 <p><img src="../../imgs/sfa/2.gif" alt="." width="250" height="189" /></p>
@@ -805,13 +805,13 @@ Au          contraire, certains nouveaux katakana ont récemment          été 
 			</item>
 		<item>
 		<title>Un dictionnaire de japonais (et plus) avec StarDict (Linux)</title>
-		<link>/npfr-archive/fr/archives/933</link>
+		<link>/fr/archives/933</link>
 		<pubDate>Sat, 10 Jun 2006 18:06:50 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Langue]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=933</guid>
-		<description><![CDATA[Stardict est le genre de petite application, discrète et efficace, qui devient vite indispensable. Les manipulations suivantes sont à appliquer sur une distribution de type Debian, comme Ubuntu. L&#8217;interface de ce dictionnaire fonctionne avec Gnome, mais vous pourrez l&#8217;utiliser sur KDE sans problème (votre gestionnaire d&#8217;installation installera tout seul les dépendances). A ma connaissance, il &#8230; <a href="/npfr-archive/fr/archives/933" class="more-link">Continue reading <span class="screen-reader-text">Un dictionnaire de japonais (et plus) avec StarDict (Linux)</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[Stardict est le genre de petite application, discrète et efficace, qui devient vite indispensable. Les manipulations suivantes sont à appliquer sur une distribution de type Debian, comme Ubuntu. L&#8217;interface de ce dictionnaire fonctionne avec Gnome, mais vous pourrez l&#8217;utiliser sur KDE sans problème (votre gestionnaire d&#8217;installation installera tout seul les dépendances). A ma connaissance, il &#8230; <a href="/fr/archives/933" class="more-link">Continue reading <span class="screen-reader-text">Un dictionnaire de japonais (et plus) avec StarDict (Linux)</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p>Stardict est le genre de petite application, discrète et efficace,  qui devient vite indispensable.</p>
 <p>Les manipulations suivantes sont à appliquer sur une distribution  de type Debian, comme Ubuntu.</p>
 <p>L&#8217;interface de ce dictionnaire fonctionne avec Gnome, mais vous  pourrez l&#8217;utiliser sur KDE sans problème (votre gestionnaire  d&#8217;installation installera tout seul les dépendances). A ma connaissance,  il n&#8217;y a pas d&#8217;interface dédiée à KDE</p>

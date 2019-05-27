@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/ja/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>テロに注意</title>
-		<link>/npfr-archive/ja/archives/8388</link>
+		<link>/ja/archives/8388</link>
 		<pubDate>Fri, 09 Jun 2017 20:51:09 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>
@@ -35,7 +35,7 @@
 			</item>
 		<item>
 		<title>フェイクニュースはどっちだ！？</title>
-		<link>/npfr-archive/ja/archives/8381</link>
+		<link>/ja/archives/8381</link>
 		<pubDate>Tue, 06 Jun 2017 13:12:16 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>
@@ -57,7 +57,7 @@
 			</item>
 		<item>
 		<title>人気のない大統領・・・</title>
-		<link>/npfr-archive/ja/archives/8373</link>
+		<link>/ja/archives/8373</link>
 		<pubDate>Mon, 08 May 2017 10:38:49 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>
@@ -76,7 +76,7 @@
 			</item>
 		<item>
 		<title>動物園で密猟</title>
-		<link>/npfr-archive/ja/archives/8357</link>
+		<link>/ja/archives/8357</link>
 		<pubDate>Sat, 11 Mar 2017 21:01:28 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>
@@ -95,7 +95,7 @@
 			</item>
 		<item>
 		<title>テレビ偏向報道</title>
-		<link>/npfr-archive/ja/archives/8346</link>
+		<link>/ja/archives/8346</link>
 		<pubDate>Fri, 03 Mar 2017 11:29:30 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>
@@ -121,7 +121,7 @@ Benoît Hamon (アモン氏）６０分</p>
 			</item>
 		<item>
 		<title>Salon de l&#8217;Agriculture</title>
-		<link>/npfr-archive/ja/archives/8344</link>
+		<link>/ja/archives/8344</link>
 		<pubDate>Thu, 02 Mar 2017 10:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>
@@ -151,7 +151,7 @@ Fumier.　クソ野郎</p>
 			</item>
 		<item>
 		<title>フランスの若者と住宅事情</title>
-		<link>/npfr-archive/ja/archives/8339</link>
+		<link>/ja/archives/8339</link>
 		<pubDate>Tue, 28 Feb 2017 14:15:30 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[生活]]></category>
@@ -183,7 +183,7 @@ Fumier.　クソ野郎</p>
 			</item>
 		<item>
 		<title>Je soutiens Marin.</title>
-		<link>/npfr-archive/ja/archives/8335</link>
+		<link>/ja/archives/8335</link>
 		<pubDate>Mon, 27 Feb 2017 21:49:12 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>
@@ -207,7 +207,7 @@ Fumier.　クソ野郎</p>
 			</item>
 		<item>
 		<title>信号無視の確率</title>
-		<link>/npfr-archive/ja/archives/8325</link>
+		<link>/ja/archives/8325</link>
 		<pubDate>Sun, 19 Feb 2017 10:58:35 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>
@@ -226,7 +226,7 @@ Fumier.　クソ野郎</p>
 			</item>
 		<item>
 		<title>大晦日に起こる犯罪</title>
-		<link>/npfr-archive/ja/archives/8315</link>
+		<link>/ja/archives/8315</link>
 		<pubDate>Tue, 03 Jan 2017 10:26:20 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[日記]]></category>

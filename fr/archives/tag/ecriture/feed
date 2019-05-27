@@ -9,8 +9,8 @@
 
 <channel>
 	<title>écriture &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/fr/archives/tag/ecriture/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/fr/</link>
+	<atom:link href="/fr/archives/tag/ecriture/feed" rel="self" type="application/rss+xml" />
+	<link>/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>L’écriture japonaise</title>
-		<link>/npfr-archive/fr/archives/855</link>
+		<link>/fr/archives/855</link>
 		<pubDate>Fri, 21 Jul 2006 17:21:34 +0000</pubDate>
 		<dc:creator><![CDATA[JC]]></dc:creator>
 				<category><![CDATA[Articles]]></category>
@@ -29,7 +29,7 @@
 		<category><![CDATA[japonais]]></category>
 
 		<guid isPermaLink="false">http://www.nippon.fr/test/?p=855</guid>
-		<description><![CDATA[L&#8217;écriture est apparue au Japon assez tard, problement vers le III° siècle, date à laquelle on trouve les premières sources écrites japonaises. L&#8217;écriture chinoise a été dans un premier temps importée intégralement du continent. L&#8217;empire chinois était alors très puissant, et exerçait une influence culturelle forte sur ses voisins. Ainsi, jusqu&#8217;au VIII° siècle, le chinois &#8230; <a href="/npfr-archive/fr/archives/855" class="more-link">Continue reading <span class="screen-reader-text">L’écriture japonaise</span> <span class="meta-nav">&#8594;</span></a>]]></description>
+		<description><![CDATA[L&#8217;écriture est apparue au Japon assez tard, problement vers le III° siècle, date à laquelle on trouve les premières sources écrites japonaises. L&#8217;écriture chinoise a été dans un premier temps importée intégralement du continent. L&#8217;empire chinois était alors très puissant, et exerçait une influence culturelle forte sur ses voisins. Ainsi, jusqu&#8217;au VIII° siècle, le chinois &#8230; <a href="/fr/archives/855" class="more-link">Continue reading <span class="screen-reader-text">L’écriture japonaise</span> <span class="meta-nav">&#8594;</span></a>]]></description>
 				<content:encoded><![CDATA[<p><img src="file:///tmp/moz-screenshot-1.png" alt="" /></p>
 <p><img src="file:///tmp/moz-screenshot-2.png" alt="" /></p>
 <p>L&#8217;écriture          est apparue au Japon assez tard, problement vers le          III° siècle, date à laquelle on trouve les premières          sources écrites japonaises.</p>

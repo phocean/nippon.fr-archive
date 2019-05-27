@@ -9,8 +9,8 @@
 
 <channel>
 	<title>アンドゥイエット &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/ja/archives/tag/%e3%82%a2%e3%83%b3%e3%83%89%e3%82%a5%e3%82%a4%e3%82%a8%e3%83%83%e3%83%88/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/archives/tag/%e3%82%a2%e3%83%b3%e3%83%89%e3%82%a5%e3%82%a4%e3%82%a8%e3%83%83%e3%83%88/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>andouillette アンドゥイエット</title>
-		<link>/npfr-archive/ja/archives/1337</link>
+		<link>/ja/archives/1337</link>
 		<pubDate>Sat, 12 Jun 2010 22:30:24 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[フランス家庭料理]]></category>
@@ -33,7 +33,7 @@
 <p>材料はアンドゥイエットを買ってくるだけ！スーパーなどにも売っているけれど、やっぱりお肉屋さんで手に入れたアンドゥイエットは格上 かも。選び方のポイントは、なんと言っても<strong>５A</strong>のマーク。これは「アンドゥイエット愛好家友好協会」が認めた絶品のア ンドゥイエットに与えられる証明なんだそうです。</p>
 <p>私たちはマルシェのポーク専門のショップで５Aアンドゥイエットを買います。オーブンでこんがり焼きマスタードを添えて。匂いが伝わらないのが残念。</p>
 <p>フランスに来られたら試してみたはどうでしょう（お口に合うかどうかは？？？）。フランス人は結構食べてますよ（当たり前ですが）。レ ストランのメニューにも５Aと書いてあるものがおすすめです。</p>
-<p><img class="alignnone size-full wp-image-2896" src="/npfr-archive/wp-content/uploads/2010/06/P1020775-320x200.jpg" /><br />
+<p><img class="alignnone size-full wp-image-2896" src="/wp-content/uploads/2010/06/P1020775-320x200.jpg" /><br />
 こちらお肉屋さんで購入<span style="text-decoration: underline;"><strong>５A</strong></span>アンドゥイエット<br />
 VERITABLE ANDOUILLETTE DE TROYES</p>
 ]]></content:encoded>

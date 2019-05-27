@@ -9,8 +9,8 @@
 
 <channel>
 	<title>フランス社会格差 &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/ja/archives/tag/%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e7%a4%be%e4%bc%9a%e6%a0%bc%e5%b7%ae/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/archives/tag/%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e7%a4%be%e4%bc%9a%e6%a0%bc%e5%b7%ae/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>フランスの格差</title>
-		<link>/npfr-archive/ja/archives/114</link>
+		<link>/ja/archives/114</link>
 		<pubDate>Tue, 06 Apr 2010 20:48:02 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[フランス文化社会]]></category>

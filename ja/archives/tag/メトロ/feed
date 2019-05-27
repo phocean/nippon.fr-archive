@@ -9,8 +9,8 @@
 
 <channel>
 	<title>メトロ &#8211; Le vrai Japon. フランス発見 | Nippon.fr</title>
-	<atom:link href="/npfr-archive/ja/archives/tag/%e3%83%a1%e3%83%88%e3%83%ad/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/archives/tag/%e3%83%a1%e3%83%88%e3%83%ad/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2017 07:29:52 +0000</lastBuildDate>
 	<language>ja</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.9.10</generator>
 	<item>
 		<title>フランス環境問題（地下鉄編）</title>
-		<link>/npfr-archive/ja/archives/129</link>
+		<link>/ja/archives/129</link>
 		<pubDate>Fri, 29 Jun 2007 20:56:36 +0000</pubDate>
 		<dc:creator><![CDATA[Aki]]></dc:creator>
 				<category><![CDATA[フランス文化社会]]></category>
@@ -55,11 +55,11 @@
 訳/ aki</p>
 <p>いつも利用しているメトロ。本当にゴミやたばこの吸殻が多い。リサイクルについても、うちではプラスチック などの容器は洗って選別していますが、アパートの集積所に集められるゴミはごった混ぜ（がっかりさせられることが多い）。このメトロのリサイクル袋が活躍 してくれることを願います。メトロ内がきれいになるといいですね。</p>
 <p>関連ページ</p>
-<p><a href="/npfr-archive/ja/archives/2576">フランス人の通勤</a><br />
-<a href="/npfr-archive/ja/archives/2584">フランス環境問題（大気汚染）</a><br />
-<a href="/npfr-archive/ja/archives/127">フランス環境問題（大気汚染対策）</a><br />
-<a href="/npfr-archive/ja/archives/130">フランス環境問題　（農薬編）</a><br />
-<a href="/npfr-archive/ja/archives/2476">世界環境ランキング</a></p>
+<p><a href="/ja/archives/2576">フランス人の通勤</a><br />
+<a href="/ja/archives/2584">フランス環境問題（大気汚染）</a><br />
+<a href="/ja/archives/127">フランス環境問題（大気汚染対策）</a><br />
+<a href="/ja/archives/130">フランス環境問題　（農薬編）</a><br />
+<a href="/ja/archives/2476">世界環境ランキング</a></p>
 ]]></content:encoded>
 			</item>
 	</channel>

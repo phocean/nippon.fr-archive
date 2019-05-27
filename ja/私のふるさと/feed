@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: 私のふるさと</title>
-	<atom:link href="/npfr-archive/ja/%e7%a7%81%e3%81%ae%e3%81%b5%e3%82%8b%e3%81%95%e3%81%a8/feed" rel="self" type="application/rss+xml" />
-	<link>/npfr-archive/ja/</link>
+	<atom:link href="/ja/%e7%a7%81%e3%81%ae%e3%81%b5%e3%82%8b%e3%81%95%e3%81%a8/feed" rel="self" type="application/rss+xml" />
+	<link>/ja/</link>
 	<description></description>
 	<lastBuildDate>Sun, 26 May 2019 15:22:40 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
